@@ -215,3 +215,6 @@ data/*
 multihoprag/cypher/CS564FinalProject.cypher
 src/scripts/CS564FinalProject.cypher
 neo4j_import/
+
+# Course report (not for public distribution)
+*.pdf

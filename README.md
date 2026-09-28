@@ -5,8 +5,6 @@
 CS564 (Database Management Systems) Final Project, University of New Mexico
 Alekh Pandey, Scott Bing
 
-📄 **[Read the full report (PDF)](report.pdf)**
-
 ---
 
 ## Overview
@@ -95,7 +93,6 @@ Retrieval uses **fixed, deterministic Cypher templates** rather than LLM-generat
 
 ```
 .
-├── report.pdf                      # Full project report
 ├── run_rag.py                      # Runs Vector / Graph / Hybrid RAG over the test set
 ├── evaluate_results.py             # Accuracy, hallucination, miss rate, P/R/F1, latency
 ├── exp.ipynb                       # Experiments and analysis notebook
